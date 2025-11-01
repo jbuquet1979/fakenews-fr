@@ -2,7 +2,7 @@
 # 
 # BLOCAGE-SITES-DESINFORMATION-FRANCOPHONE
 #
-# Version: 1.0.0
+# Version: 1.0.1
 # Date : 2025-11-01
 #
 # ----------------------------------------------------------------------------------------------------
@@ -15,117 +15,310 @@
 # grâce à des associations luttant contre la désinformation qui est le posion des démocraties
 # ----------------------------------------------------------------------------------------------------
 
-# ---- Basé sur la cartographie Conspiracy Watch
+# ---- Basé sur la cartographie Conspiracy Watch (https://www.conspiracywatch.info/conspiracymap)
 
 # ---- "Nouvel Ordre Mondial", "Etat Profond", "réseaux pédocriminels élitistes"
 0.0.0.0     solidariteetprogres.fr
+0.0.0.0     www.solidariteetprogres.fr
+
 0.0.0.0     peodpolis.com
+0.0.0.0     www.peodpolis.com
+
 0.0.0.0     arretsurinfo.ch
+0.0.0.0     www.arretsurinfo.ch
+
 0.0.0.0     ilfattoquotidiano.fr
+0.0.0.0     www.ilfattoquotidiano.fr
+
 0.0.0.0     nicolasbonnal.wordpress.com
+0.0.0.0     www.nicolasbonnal.wordpress.com
+
 0.0.0.0     crashdebug.fr
+0.0.0.0     www.crashdebug.fr
+
 0.0.0.0     fawkes-news.com
+0.0.0.0     www.fawkes-news.com
+
 0.0.0.0     le-blog-sam-la-touch.over-blog.com
+0.0.0.0     www.le-blog-sam-la-touch.over-blog.com
+
 0.0.0.0     legrandsoir.info
+0.0.0.0     www.legrandsoir.info
+
 0.0.0.0     olivierdemeulenaere.wordpress.com
+0.0.0.0     www.olivierdemeulenaere.wordpress.com
+
 0.0.0.0     qactus.fr
+0.0.0.0     www.qactus.fr
+
 0.0.0.0     profession-gendarme.com
+0.0.0.0     www.profession-gendarme.com
+
 0.0.0.0     leblogalupulus.com
+0.0.0.0     www.leblogalupulus.com
+
 0.0.0.0     alterinfo.ch
+0.0.0.0     www.alterinfo.ch
+
 0.0.0.0     guyboulianne.com
+0.0.0.0     www.guyboulianne.com
+
 0.0.0.0     lesdeqodeurs.fr
+0.0.0.0     www.lesdeqodeurs.fr
+
 0.0.0.0     lilianeheldkhawam.com
+0.0.0.0     www.lilianeheldkhawam.com
+
 0.0.0.0     echelledejacob.blogspot.com
+0.0.0.0     www.echelledejacob.blogspot.com
+
 0.0.0.0     chouard.org
+0.0.0.0     www.chouard.org
+
 0.0.0.0     resistance71.wordpress.com
+0.0.0.0     www.resistance71.wordpress.com
+
 0.0.0.0     nouveau-monde.ca
+0.0.0.0     www.nouveau-monde.ca
+
 0.0.0.0     aphadolie.com
+0.0.0.0     www.aphadolie.com
+
 0.0.0.0     kla.tv
+0.0.0.0     www.kla.tv
+
 0.0.0.0     brujitafr.fr
+0.0.0.0     www.brujitafr.fr
+
 0.0.0.0     divulgation.fr
+0.0.0.0     www.divulgation.fr
 
 # ---- Covido-scepticisme, anti-masque, anti-vax
 0.0.0.0     philippeherlin.blogspot.com
+0.0.0.0     www.philippeherlin.blogspot.com
+
 0.0.0.0     lemediaen442.fr
+0.0.0.0     www.lemediaen442.fr
+
 0.0.0.0     lecourrier-du-soir.com
+0.0.0.0     www.lecourrier-du-soir.com
+
 0.0.0.0     francesoir.fr
+0.0.0.0     www.francesoir.fr
+
 0.0.0.0     michelduchaine.com
+0.0.0.0     www.michelduchaine.com
+
 0.0.0.0     agoratv.ch
+0.0.0.0     www.agoratv.ch
+
 0.0.0.0     epochtimes.fr
+0.0.0.0     www.epochtimes.fr
+
 0.0.0.0     covidhub.ch
+0.0.0.0     www.covidhub.ch
+
 0.0.0.0     reaction19.fr
+0.0.0.0     www.reaction19.fr
+
 0.0.0.0     baslesmasques.com
+0.0.0.0     www.baslesmasques.com
+
 0.0.0.0     reinfocovid.fr
+0.0.0.0     www.reinfocovid.fr
+
 0.0.0.0     laminutedericardo.com
+0.0.0.0     www.laminutedericardo.com
+
 0.0.0.0     bonsens.info
+0.0.0.0     www.bonsens.info
+
 0.0.0.0     anthropo-logiques.com
+0.0.0.0     www.anthropo-logiques.com
+
 0.0.0.0     kairospresse.be
+0.0.0.0     www.kairospresse.be
+
 0.0.0.0     micheldogna.fr
+0.0.0.0     www.micheldogna.fr
+
 0.0.0.0     jbl1960blog.wordpress.com
+0.0.0.0     www.jbl1960blog.wordpress.com
+
 0.0.0.0     initiativecitoyenne.be
+0.0.0.0     www.initiativecitoyenne.be
+
 0.0.0.0     famillessanteprevention.org
+0.0.0.0     www.famillessanteprevention.org
+
 0.0.0.0     eddenya.com
+0.0.0.0     www.eddenya.com
 
 # ---- Antisémitisme, antisionisme, antimaçonnisme
 0.0.0.0     francoisbelliot.fr
+0.0.0.0     www.francoisbelliot.fr
+
 0.0.0.0     faitsetdocuments.com
+0.0.0.0     www.faitsetdocuments.com
+
 0.0.0.0     quenelplus.com
+0.0.0.0     www.quenelplus.com
+
 0.0.0.0     islametinfo.fr
+0.0.0.0     www.islametinfo.fr
+
 0.0.0.0     contre-info.com
+0.0.0.0     www.contre-info.com
+
 0.0.0.0     panamza.com
+0.0.0.0     www.panamza.com
+
 0.0.0.0     egaliteetreconciliation.fr
+0.0.0.0     www.egaliteetreconciliation.fr
+
 0.0.0.0     algeriepatriotique.com
+0.0.0.0     www.algeriepatriotique.com
+
 0.0.0.0     almanar.com.lb
+0.0.0.0     www.almanar.com.lb
+
 0.0.0.0     lereveildesmoutons.fr
+0.0.0.0     www.lereveildesmoutons.fr
+
 0.0.0.0     johanlivernette.wordpress.com
+0.0.0.0     www.johanlivernette.wordpress.com
+
 0.0.0.0     lesmoutonsrebelles.com
+0.0.0.0     www.lesmoutonsrebelles.com
+
 0.0.0.0     the-savoisien.com
+0.0.0.0     www.the-savoisien.com
+
 0.0.0.0     apar.tv
+0.0.0.0     www.apar.tv
+
 0.0.0.0     lelibrepenseur.org
+0.0.0.0     www.lelibrepenseur.org
+
 0.0.0.0     profidecatholica.com
+0.0.0.0     www.profidecatholica.com
+
 0.0.0.0     lesmoutonsenrages.fr
+0.0.0.0     www.lesmoutonsenrages.fr
+
 0.0.0.0     xochipelli.fr
+0.0.0.0     www.xochipelli.fr
 
 # ---- Pro-Kremlin, antiaméricanisme, "terrorisme fabriqué"
 0.0.0.0     upr.fr
+0.0.0.0     www.upr.fr
+
 0.0.0.0     alnas.fr
+0.0.0.0     www.alnas.fr
+
 0.0.0.0     voltairenet.org
+0.0.0.0     www.voltairenet.org
+
 0.0.0.0     stratpol.com
+0.0.0.0     www.stratpol.com
+
 0.0.0.0     strategika.fr
+0.0.0.0     www.strategika.fr
+
 0.0.0.0     leaskerfrancophone.fr
+0.0.0.0     www.leaskerfrancophone.fr
+
 0.0.0.0     geopolitique-profonde.com
+0.0.0.0     www.geopolitique-profonde.com
+
 0.0.0.0     observateurcontinental.fr
+0.0.0.0     www.observateurcontinental.fr
+
 0.0.0.0     reseauinternational.net
+0.0.0.0     www.reseauinternational.net
+
 0.0.0.0     valeriebugault.fr
+0.0.0.0     www.valeriebugault.fr
+
 0.0.0.0     reopen911.info
+0.0.0.0     www.reopen911.info
+
 0.0.0.0     wikistrike.com
+0.0.0.0     www.wikistrike.com
+
 0.0.0.0     mondailisation.ca
+0.0.0.0     www.mondailisation.ca
 
 # ---- Pseudo-science, ésotérisme, "santé alternative"
 0.0.0.0     climato-realistes.fr
+0.0.0.0     www.climato-realistes.fr
+
 0.0.0.0     nexus.fr
+0.0.0.0     www.nexus.fr
+
 0.0.0.0     exoportail.com
+0.0.0.0     www.exoportail.com
+
 0.0.0.0     pleinsfeux.org
+0.0.0.0     www.pleinsfeux.org
+
 0.0.0.0     sante-nutrition.org
+0.0.0.0     www.sante-nutrition.org
+
 0.0.0.0     santenatureinnovation.com
+0.0.0.0     www.santenatureinnovation.com
+
 0.0.0.0     btlv.fr
+0.0.0.0     www.btlv.fr
+
 0.0.0.0     latableronde.over-blog.com
+0.0.0.0     www.latableronde.over-blog.com
+
 0.0.0.0     alternativesante.fr
+0.0.0.0     www.alternativesante.fr
+
 0.0.0.0     espritsciencemetaphysiques.com
+0.0.0.0     www.espritsciencemetaphysiques.com
+
 0.0.0.0     etresouverain.com
+0.0.0.0     www.etresouverain.com
+
 0.0.0.0     emakrusi.com
+0.0.0.0     www.emakrusi.com
 
 # ---- "Grand Remplacement", anti-Islam, identitaires
 0.0.0.0     ndf.fr
-0.0.0.0     lesalonbeige.fr
-0.0.0.0     reinformation.tv
-0.0.0.0     europe-israel.org
-0.0.0.0     lesobservateurs.ch
-0.0.0.0     islam-et-verite.com
-0.0.0.0     medias-presse.info
-0.0.0.0     riposte-laique.com
-0.0.0.0     breizh-info.com
-0.0.0.0     radiocourtoisie.fr
-0.0.0.0     resistancerepublicaine.com
-0.0.0.0     arnauddebrienne.wordpress.com
+0.0.0.0     www.ndf.fr
 
+0.0.0.0     lesalonbeige.fr
+0.0.0.0     www.lesalonbeige.fr
+
+0.0.0.0     reinformation.tv
+0.0.0.0     www.reinformation.tv
+
+0.0.0.0     europe-israel.org
+0.0.0.0     www.europe-israel.org
+
+0.0.0.0     lesobservateurs.ch
+0.0.0.0     www.lesobservateurs.ch
+
+0.0.0.0     islam-et-verite.com
+0.0.0.0     www.islam-et-verite.com
+
+0.0.0.0     medias-presse.info
+0.0.0.0     www.medias-presse.info
+
+0.0.0.0     riposte-laique.com
+0.0.0.0     www.riposte-laique.com
+
+0.0.0.0     breizh-info.com
+0.0.0.0     www.breizh-info.com
+
+0.0.0.0     radiocourtoisie.fr
+0.0.0.0     www.radiocourtoisie.fr
+
+0.0.0.0     resistancerepublicaine.com
+0.0.0.0     www.resistancerepublicaine.com
+
+0.0.0.0     arnauddebrienne.wordpress.com
+0.0.0.0     www.arnauddebrienne.wordpress.com
