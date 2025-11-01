@@ -1,0 +1,47 @@
+# ----------------------------------------------------------------------------------------------------
+# 
+# BLOCAGE-SITES-DESINFORMATION-FRANCOPHONE
+#
+# Version: 1.0.0
+# Date : 2025-11-01
+#
+# ----------------------------------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------------------------------
+# Projet qui vise à lister les sites identifiés comme conspirationnistes afin de les éliminer 
+# en l'ajoutant à son DNS privé ou sa liste noire personnelle.
+# Grâce à cette, vous avez le pouvoir d'éviter de tomber sur ces sites de désinformation notoire.
+# Cette liste est construite sur des bases de données sérieuses dans la presse officielle ou
+# grâce à des associations luttant contre la désinformation qui est le posion des démocraties
+# ----------------------------------------------------------------------------------------------------
+
+# ---- Basé sur la cartographie Conspiracy Watch
+
+# ---- "Nouvel Ordre Mondial", "Etat Profond", "réseaux pédocriminels élitistes"
+0.0.0.0     solidariteetprogres.fr
+0.0.0.0     peodpolis.com
+0.0.0.0     arretsurinfo.ch
+0.0.0.0     ilfattoquotidiano.fr
+0.0.0.0     nicolasbonnal.wordpress.com
+0.0.0.0     crashdebug.fr
+0.0.0.0     fawkes-news.com
+0.0.0.0     le-blog-sam-la-touch.over-blog.com
+0.0.0.0     legrandsoir.info
+0.0.0.0     olivierdemeulenaere.wordpress.com
+0.0.0.0     qactus.fr
+0.0.0.0     profession-gendarme.com
+0.0.0.0     leblogalupulus.com
+0.0.0.0     alterinfo.ch
+0.0.0.0     guyboulianne.com
+0.0.0.0     lesdeqodeurs.fr
+0.0.0.0     lilianeheldkhawam.com
+0.0.0.0     echelledejacob.blogspot.com
+0.0.0.0     chouard.org
+0.0.0.0     resistance71.wordpress.com
+0.0.0.0     nouveau-monde.ca
+0.0.0.0     aphadolie.com
+0.0.0.0     kla.tv
+0.0.0.0     brujitafr.fr
+0.0.0.0     divulgation.fr
+
+# ---- Covido-scepticisme, anti-masque, anti-vax
